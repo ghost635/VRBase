@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Builds/WindowsNoEditor/VRBase.exe - Oculus.lnk
+
+Builds/WindowsNoEditor/VRBase.exe - SteamVR.lnk
+
+VRBase-Oculus.lnk
